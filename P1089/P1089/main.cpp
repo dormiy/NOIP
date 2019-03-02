@@ -31,8 +31,10 @@ int main(int argc, const char * argv[]) {
             remaining=remaining%100;
         }
     }
+    
     if(!lack){
         cout <<deposit*1.2+remaining<<endl;
     }
+    
     return 0;
 }
