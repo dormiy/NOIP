@@ -1,4 +1,5 @@
 # NOIP
 
-this is to help my son to study his programming course
-we're following and solving the programming questions at www.luogu.com
+#This is to help my son for his programming course
+
+#We're following www.luogu.com for all the pratices we're working on.
