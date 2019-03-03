@@ -27,6 +27,7 @@ int main(int argc, const char * argv[]) {
             }
         }
     }
+    
     cout<<count<<endl;
     return 0;
 }
