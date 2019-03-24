@@ -47,6 +47,7 @@ int main()
     else{
         cout << count << " " << location;
     }
+    
     return 0;
     
 }
